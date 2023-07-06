@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/mysite/static/css/main.073c9b0a.css",
-    "main.js": "/mysite/static/js/main.ada79e71.js",
+    "main.css": "/mysite/static/css/main.d514e6ad.css",
+    "main.js": "/mysite/static/js/main.5d4642f5.js",
     "static/js/787.7cb2e3e1.chunk.js": "/mysite/static/js/787.7cb2e3e1.chunk.js",
-    "static/media/logo.svg": "/mysite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/code1.png": "/mysite/static/media/code1.bc367bc25ff1b6fefb4f.png",
+    "static/media/code2.png": "/mysite/static/media/code2.405cf7e01dbcd9087d9d.png",
+    "static/media/code3.png": "/mysite/static/media/code3.2dc0e66dc36a2a8aa741.png",
+    "static/media/poem2.png": "/mysite/static/media/poem2.bfed2e76b00dd17cd056.png",
+    "static/media/social-life-icon.png": "/mysite/static/media/social-life-icon.3fec257f268b7b22f250.png",
+    "static/media/work-with-you-icon.png": "/mysite/static/media/work-with-you-icon.8d18a8613bc1de6fb82a.png",
+    "static/media/poem3.png": "/mysite/static/media/poem3.bc8bffa3bf1cc80929a5.png",
+    "static/media/poem1.png": "/mysite/static/media/poem1.95eea510804b5c476221.png",
     "index.html": "/mysite/index.html",
-    "main.073c9b0a.css.map": "/mysite/static/css/main.073c9b0a.css.map",
-    "main.ada79e71.js.map": "/mysite/static/js/main.ada79e71.js.map",
+    "main.d514e6ad.css.map": "/mysite/static/css/main.d514e6ad.css.map",
+    "main.5d4642f5.js.map": "/mysite/static/js/main.5d4642f5.js.map",
     "787.7cb2e3e1.chunk.js.map": "/mysite/static/js/787.7cb2e3e1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.ada79e71.js"
+    "static/css/main.d514e6ad.css",
+    "static/js/main.5d4642f5.js"
   ]
 }
