@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/MySite/static/css/main.d514e6ad.css",
-    "main.js": "/MySite/static/js/main.d85afdc0.js",
-    "static/js/787.7cb2e3e1.chunk.js": "/MySite/static/js/787.7cb2e3e1.chunk.js",
-    "static/media/code1.png": "/MySite/static/media/code1.bc367bc25ff1b6fefb4f.png",
-    "static/media/code2.png": "/MySite/static/media/code2.405cf7e01dbcd9087d9d.png",
-    "static/media/code3.png": "/MySite/static/media/code3.2dc0e66dc36a2a8aa741.png",
-    "static/media/poem2.png": "/MySite/static/media/poem2.bfed2e76b00dd17cd056.png",
-    "static/media/social-life-icon.png": "/MySite/static/media/social-life-icon.3fec257f268b7b22f250.png",
-    "static/media/work-with-you-icon.png": "/MySite/static/media/work-with-you-icon.8d18a8613bc1de6fb82a.png",
-    "static/media/poem3.png": "/MySite/static/media/poem3.bc8bffa3bf1cc80929a5.png",
-    "static/media/poem1.png": "/MySite/static/media/poem1.95eea510804b5c476221.png",
-    "index.html": "/MySite/index.html",
-    "main.d514e6ad.css.map": "/MySite/static/css/main.d514e6ad.css.map",
-    "main.d85afdc0.js.map": "/MySite/static/js/main.d85afdc0.js.map",
-    "787.7cb2e3e1.chunk.js.map": "/MySite/static/js/787.7cb2e3e1.chunk.js.map"
+    "main.css": "/kriti-negi.github.io/MySite/static/css/main.d514e6ad.css",
+    "main.js": "/kriti-negi.github.io/MySite/static/js/main.128adeeb.js",
+    "static/js/787.7cb2e3e1.chunk.js": "/kriti-negi.github.io/MySite/static/js/787.7cb2e3e1.chunk.js",
+    "static/media/code1.png": "/kriti-negi.github.io/MySite/static/media/code1.bc367bc25ff1b6fefb4f.png",
+    "static/media/code2.png": "/kriti-negi.github.io/MySite/static/media/code2.405cf7e01dbcd9087d9d.png",
+    "static/media/code3.png": "/kriti-negi.github.io/MySite/static/media/code3.2dc0e66dc36a2a8aa741.png",
+    "static/media/poem2.png": "/kriti-negi.github.io/MySite/static/media/poem2.bfed2e76b00dd17cd056.png",
+    "static/media/social-life-icon.png": "/kriti-negi.github.io/MySite/static/media/social-life-icon.3fec257f268b7b22f250.png",
+    "static/media/work-with-you-icon.png": "/kriti-negi.github.io/MySite/static/media/work-with-you-icon.8d18a8613bc1de6fb82a.png",
+    "static/media/poem3.png": "/kriti-negi.github.io/MySite/static/media/poem3.bc8bffa3bf1cc80929a5.png",
+    "static/media/poem1.png": "/kriti-negi.github.io/MySite/static/media/poem1.95eea510804b5c476221.png",
+    "index.html": "/kriti-negi.github.io/MySite/index.html",
+    "main.d514e6ad.css.map": "/kriti-negi.github.io/MySite/static/css/main.d514e6ad.css.map",
+    "main.128adeeb.js.map": "/kriti-negi.github.io/MySite/static/js/main.128adeeb.js.map",
+    "787.7cb2e3e1.chunk.js.map": "/kriti-negi.github.io/MySite/static/js/787.7cb2e3e1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d514e6ad.css",
-    "static/js/main.d85afdc0.js"
+    "static/js/main.128adeeb.js"
   ]
 }
