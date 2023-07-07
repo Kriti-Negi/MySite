@@ -1,7 +1,7 @@
 {
   "name": "mysite",
   "version": "0.1.0",
-  "homepage": "https://kriti-negi.github.io/MySite/",
+  "homepage": "https://kriti-negi.github.io/MySite",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
